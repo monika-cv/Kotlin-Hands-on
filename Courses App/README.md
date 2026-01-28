@@ -1,4 +1,4 @@
-Courses App - Solution Code
+Courses App
 ================================
 
 Solution code for the Android Basics with Compose: Build a grid list practice problem set.
